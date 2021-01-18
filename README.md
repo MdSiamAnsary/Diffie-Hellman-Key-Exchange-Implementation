@@ -37,7 +37,29 @@ PersonOne/
 ├── src/ 
 |    └── PersonOne/
 |          |── InterfaceImpl/
-|          └──  PersonOne/
+|          └── PersonOne/
+├── build/ 
+├── Interface/
+└── manifest.mf/
+
+PersonTwo/
+├── build/
+│   |── classes/     
+│       |── PersonTwo
+|       |     └── PersonTwo.class
+|       |── .netbeans_automatic_build
+|       └── .netbeans_update_resources
+├── nbproject/ 
+│   |── private/  
+|   |     |── private.properties/
+|   |     └── private/
+|   |── build-impl/
+|   |── genfiles.properties/
+|   |── project.properties/
+|   └── project/
+├── src/ 
+|    └── PersonTwo/
+|          └── PersonTwo/
 ├── build/ 
 ├── Interface/
 └── manifest.mf/
