@@ -1,4 +1,5 @@
 # Diffie Hellman Key Exchange Implementation
+Diffie Hellman (DH) key exchange algorithm is a method for securely exchanging key(s) over a public communications channel. Keys are not actually exchanged – they are jointly derived. It is named after their inventors Whitfield Diffie and Martin Hellman.
 
 ## Output Samples of implementation
 
