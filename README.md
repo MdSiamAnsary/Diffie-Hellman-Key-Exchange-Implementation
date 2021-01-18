@@ -1,5 +1,11 @@
 # Diffie Hellman Key Exchange Implementation
 
+## Output Samples of implementation
+
+<img src="https://github.com/MdSiamAnsary/Diffie-Hellman-Key-Exchange-Implementation/blob/main/Output%20Sample(s)/PersonOne.PNG" alt="PersonOne Outcome" height="340" width="475"><img src="https://github.com/MdSiamAnsary/Diffie-Hellman-Key-Exchange-Implementation/blob/main/Output%20Sample(s)/PersonTwo.PNG" alt="PersonTwo Outcome" height="340" width="475">
+
+<br>
+
 ### Directory Structure
 
 The following is a high level overview of relevant files and folders.
